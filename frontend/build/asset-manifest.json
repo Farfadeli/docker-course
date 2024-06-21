@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b5a7a272.css",
+    "main.js": "/static/js/main.433afcf5.js",
+    "static/js/453.15c8c274.chunk.js": "/static/js/453.15c8c274.chunk.js",
+    "static/media/bootstrap.min.css.map": "/static/media/bootstrap.min.css.24ed20e8476698dafba3.map",
+    "static/media/bootstrap.min.js.map": "/static/media/bootstrap.min.js.f34a33061c31ff49cb6f.map",
+    "static/media/poppins.ttf": "/static/media/poppins.35d26b781dc5fda684cc.ttf",
+    "static/media/poppins_bold.ttf": "/static/media/poppins_bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/ripple1.gif": "/static/media/ripple1.9b9fb2d3d18338b249a0.gif",
+    "static/media/pic_1.png": "/static/media/pic_1.4d62638ea2481f695482.png",
+    "static/media/windy.png": "/static/media/windy.6f776ddeb6680edf46c4.png",
+    "service-worker.js": "/service-worker.js",
+    "static/media/rain (1).png": "/static/media/rain (1).a233af94b13576061f5a.png",
+    "static/media/humidity.png": "/static/media/humidity.be3eee7dd32e2531d8e8.png",
+    "static/media/map.png": "/static/media/map.3eecef4b57bd6d282b5d.png",
+    "static/media/freezing-rain.svg": "/static/media/freezing-rain.585011610d907414ecc093107e10704c.svg",
+    "static/media/wind-icon.svg": "/static/media/wind-icon.02fc36e7a29dd6194fc7289419829778.svg",
+    "static/media/pressure-icon.svg": "/static/media/pressure-icon.bef2b0bdef37595ac7f8cf8b77497e40.svg",
+    "static/media/humidity-icon.svg": "/static/media/humidity-icon.9726876640595d230bd798c953a2c3a1.svg",
+    "static/media/scattered-clouds.svg": "/static/media/scattered-clouds.0668d4d7da1459b1a2e7f93657de6793.svg",
+    "static/media/snowy-6.svg": "/static/media/snowy-6.3cf0c0b5b1a682f2bc609235d206cd3a.svg",
+    "static/media/overcast-clouds.svg": "/static/media/overcast-clouds.372a78b64445e3193952a3d911124135.svg",
+    "static/media/day.svg": "/static/media/day.cec9d8ac6004e68a30a6c6d0595e6ac3.svg",
+    "static/media/few-clouds.svg": "/static/media/few-clouds.5fa31e4a84248ea68083198a2c8f22cf.svg",
+    "index.html": "/index.html",
+    "static/media/rainy-7.svg": "/static/media/rainy-7.0bd3e3bdd93d7bfd806f2312ae1a587f.svg",
+    "static/media/thunder.svg": "/static/media/thunder.70a7e375aa5026e5a3d0cc853431e234.svg",
+    "static/media/broken-clouds.svg": "/static/media/broken-clouds.8d5b8f9ae490e45172c164c01534be3e.svg",
+    "static/media/rainy-5.svg": "/static/media/rainy-5.f59568aac704ff5545e805d4b4492fb6.svg",
+    "static/media/haze.svg": "/static/media/haze.810ea7df1f754d9a5e1ac4f7ccad2980.svg",
+    "static/media/mist.svg": "/static/media/mist.212df11cebffa663c362a05c2c5eca25.svg",
+    "main.b5a7a272.css.map": "/static/css/main.b5a7a272.css.map",
+    "main.433afcf5.js.map": "/static/js/main.433afcf5.js.map",
+    "453.15c8c274.chunk.js.map": "/static/js/453.15c8c274.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5a7a272.css",
+    "static/js/main.433afcf5.js"
+  ]
+}
